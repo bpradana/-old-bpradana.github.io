@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+    color: floralwhite;
+}
+
+.hero {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35) ), url(../images/bg.jpg);    
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.btn-ctn {
+    margin: 3vh;
+}
+
+.btn {
+    font-size: 18px;
+    text-decoration: none;
+    color: floralwhite;
+    border: floralwhite 1px solid;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin: 1vh;
+}
+
+.btn:hover {
+    background-color: floralwhite;
+    color: rgba(0, 0, 0, 0.90);
+}
