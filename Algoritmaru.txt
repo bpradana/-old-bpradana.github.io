@@ -51,7 +51,10 @@ Level 17
 P!ng
 
 Level 18
-elamila
+milaila
 
 Level 19
-
+1.jawabannya panjang
+2.bukan nama dosen
+3.bukan nama proses
+4.sql
