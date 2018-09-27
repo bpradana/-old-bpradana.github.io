@@ -54,7 +54,8 @@ Level 18
 milaila
 
 Level 19
-1.jawabannya panjang
-2.bukan nama dosen
-3.bukan nama proses
-4.sql
+SELECT NAMA_DOSEN FROM DOSEN WHERE NAMA_DOSEN LIKE '%a'
+
+Level 20
+
+
