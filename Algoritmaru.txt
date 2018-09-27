@@ -1,4 +1,5 @@
-ALGORITMARU
+//ALGORITMARU//
+
 Level 1
 GedungBLantai4
 
