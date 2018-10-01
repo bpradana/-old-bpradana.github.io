@@ -58,5 +58,11 @@ Level 19
 SELECT NAMA_DOSEN FROM DOSEN WHERE NAMA_DOSEN LIKE '%a'
 
 Level 20
+stop start rc.local
 
+level 21
+apt-get purge exim4*
+
+level 22
+bhin2
 
